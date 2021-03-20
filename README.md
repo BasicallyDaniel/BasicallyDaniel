@@ -31,9 +31,6 @@ I am currently finishing my master's degree in Computer Systems & Networks, with
 * Windows
 * LaTex
 
-<br />
-<br />
-
 </details>
 
 [website]: https://basicallydaniel.github.io
