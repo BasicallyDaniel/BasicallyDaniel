@@ -26,9 +26,8 @@ I am currently finishing my master's degree in Computer Systems & Networks, with
 
 ### Tools:
 
-* Git
-* Linux
-* Windows
+* Git, Github
+* Linux, Unix, Windows
 * LaTex
 
 </details>
