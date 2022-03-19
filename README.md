@@ -1,8 +1,6 @@
 ### Hi, I'm Daniel Karlberg 👋
 
-I am an aspiring master's student at Chalmers University of Technology with a deep passion and interest in software development and all things technology. I enjoy working with software to solve complicated problems, but I also find enjoyment in using software to provide solutions to daily problems.
-
-I am currently finishing my master's degree in Computer Systems & Networks, with specialization in distributed systems and security. Presently, I am working on my master's thesis in cooperation with Combitech AB, where I am developing, implementing and evaluating distributed fault-tolerant algorithms. 
+I am a software engineer with a degree in Computer Science with a masters' in Computer Systems and Networks from Chalmers University of Technology. I enjoy working and learning about connected solutions, connectivity, IoT/IIoT and cloud. If you wish to speak to me or collaborate, please send me a message!
 
 ### Languages:
 
