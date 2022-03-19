@@ -4,15 +4,13 @@ I am an aspiring master's student at Chalmers University of Technology with a de
 
 I am currently finishing my master's degree in Computer Systems & Networks, with specialization in distributed systems and security. Presently, I am working on my master's thesis in cooperation with Combitech AB, where I am developing, implementing and evaluating distributed fault-tolerant algorithms. 
 
-### Connect with me:
-
-[<img align="left" alt="basicallydaniel.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages:
 
+* C#/.NET
 * Java
 * Python
 * C/C++
