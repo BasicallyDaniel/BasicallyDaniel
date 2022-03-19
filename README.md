@@ -20,6 +20,7 @@ I am a software engineer with a degree in Computer Science with a masters' in Co
 
 * Git, Github
 * Linux, Unix, Windows
+* Azure
 * LaTex
 
 </details>
