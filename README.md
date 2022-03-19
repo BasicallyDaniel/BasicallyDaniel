@@ -30,5 +30,4 @@ I am currently finishing my master's degree in Computer Systems & Networks, with
 
 </details>
 
-[website]: https://basicallydaniel.github.io
 [linkedin]: https://www.linkedin.com/in/danielaagekarlberg/
