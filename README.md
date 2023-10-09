@@ -1,27 +1,6 @@
 ### Hi, I'm Daniel Karlberg 👋
 
-I am a software engineer with a degree in Computer Science with a masters' in Computer Systems and Networks from Chalmers University of Technology. I enjoy working and learning about connected solutions, connectivity, IoT/IIoT and cloud. If you wish to speak to me or collaborate, please send me a message!
-
-### Languages:
-
-* C#/.NET
-* Java
-* Python
-* C/C++
-* RUST
-* MATLAB
-* Also experience in:
-    * Haskell
-    * Erlang
-    * Assembler
-    * VHDL
-
-### Tools:
-
-* Git, Github
-* Linux, Unix, Windows
-* Azure
-* LaTex
+I am a passionate software engineer who is constantly looking for new things to learn about software and code development. I have a degree in Computer Science with a masters' in Computer Systems and Networks from Chalmers University of Technology. If you wish to speak to me or collaborate, please send me a message!
 
 </details>
 
